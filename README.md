@@ -1,6 +1,6 @@
 <div align="center">
 <h1 align="center">Hi <img width="35" src="resources/img/waving.gif">, I'm Djamel</h1>
-<h4 align="center">A passionate Software developer graduated from "Université Paris Cité" (Paris, France &#127467;&#127479;), see my <a href="https://djamel.dev/docs/cv.pdf" target="_blank">resume</a> for more</h4>
+<h4 align="center">A passionate Software developer graduated from "Université Paris Cité" (Paris, France &#127467;&#127479;), see my <a href="https://djamel.dev/resume" target="_blank">resume</a> for more</h4>
 </div>
 
 <div align="center">
